@@ -24,4 +24,4 @@
       - Age: 35 years old
   - Note: The output may vary depending on the images in the dataset and the performance of the DeepFace model.
   # Realtime Recognition :
-  - Done
+  - complete ✅💯
